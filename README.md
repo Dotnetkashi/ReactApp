@@ -1,2 +1,2 @@
-# ReactApp
-Practice webapp for react application 
+# Practice webapp for react application 
+
